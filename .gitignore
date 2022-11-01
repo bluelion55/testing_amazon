@@ -1,0 +1,13 @@
+.pytest_cache/
+.idea/
+environments/.env
+.env
+/.env
+.DS_Store
+__pycache__/
+venv/
+allure_results/
+tests/__pycache__/
+tests/.DS_Store
+Pipfile.lock
+Config.json
